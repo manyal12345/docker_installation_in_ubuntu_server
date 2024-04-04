@@ -7,7 +7,7 @@ This shell script automates the installation process of Docker on Ubuntu systems
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/docker-installation-script.git
+   git clone https://github.com/manyal12345/docker_installation_in_ubuntu_server.git
    
 2. Navigate to the directory containing the script:
    ```bash
