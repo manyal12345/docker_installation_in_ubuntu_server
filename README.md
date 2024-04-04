@@ -11,15 +11,15 @@ This shell script automates the installation process of Docker on Ubuntu systems
    
 2. Navigate to the directory containing the script:
    ```bash
-   cd docker-installation-script
+   cd docker_installation_in_ubuntu_server
   
 3. Make the script executable:
    ```bash
-   chmod +x install_docker.sh
+   chmod 777 dock_ubuntu.sh
 
 4. Execute the script:
    ```bash
-   ./install_docker.sh
+   ./dock_ubuntu.sh
 
 Follow the on-screen instructions.
 
